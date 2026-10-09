@@ -1,4 +1,4 @@
-package introdEExerc;
+package atividadeTratamentodeExce;
 
 public class TratamentoExcec {
     static void main() {
